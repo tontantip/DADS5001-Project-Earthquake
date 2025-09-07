@@ -31,9 +31,9 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 หากวิเคราะห์การกระจายคาวมรุนแผ่นดินไหวโดยตรง (มาตราวัดขนาด: Magnitude) หรือที่ทราบกันดีในหน่วย ริกเตอร์ สเกล (Richter scale) ตั้งแต่ปี 2005-2025 (Figure3) พบว่าการกระจายตัวใหญ่ (Median) จะอยู่ในช่วงความรุนแแรง 5.5 ถึง 6.5 ถึงเป็นความรุนแรงสามารถทำความเสียในบริเวณที่เป็นศูนย์กลางของการเกิดแผ่นดินไหวได้ ในปี 2011 มีค่า Outlier ความรุนแรงสูงมากเมื่อเทียบกับปีอื่นๆ ซึ่งมีขนาดถึง 9.0 ริกเตอร์ ซึ่งเป็นเหตุการณ์แผ่นไหวขนาด 9.0 ริกเตอร์ที่โทโฮคุ ประเทศญี่ปุ่น
 </p>
 <div align="center">
-  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/The%20number%20of%20earthquakes%20each%20year%20(2005-2025).png?raw=true" alt="SAO Collapse" width="500">
+  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Dstnbution%20of%20Earthquake%20Magmtudes%20per%20Year%20(2005-2025).png?raw=true" width="500">
   <p style="font-size: 0.9em; color: #555;">
-    <em>Figure2: Bar Chart แสดงจำนวนการเกิดแผนดินไหว (แกน Y: Earthquake Count) แต่ละปี ตั้งแต่ 2005-2025(เดือน สิงหาคม) (แกน X: Year(2005-2025)) ในแต่ละปีมีจำนวนแผ่นดอนไหวไม่ต่ำกว่า 20 ครั้ง และไม่มีแนวโน้มที่แน่นอน </em><br>
+    <em>Figure2: Boxplot แสดงการกระจายของความรุนแรงแผ่นดินไหว (แกน Y: Magnitude) ในแต่ละปี (แกน X: Year 2005-2025) </em><br>
   </p>
 </div>
 ## Installation
