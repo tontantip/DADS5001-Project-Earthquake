@@ -36,6 +36,14 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
     <em>Figure2: Boxplot แสดงการกระจายของความรุนแรงแผ่นดินไหว (แกน Y: Magnitude) ในแต่ละปี (แกน X: Year 2005-2025) </em><br>
   </p>
 </div>
+</p>
+<div align="center">
+  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/how_richter_scale_calculated.gif?raw=true" width="500">
+  <p style="font-size: 0.9em; color: #555;">
+    <em>Figure3: Understanding the Richter Scale </em><br>
+    ที่มา: <a href="https://www.sms-tsunami-warning.com/">SMS tsunami warning</a>
+  </p>
+</div>
 ## Installation
 
 ### Prerequisites
