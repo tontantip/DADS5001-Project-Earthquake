@@ -56,7 +56,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 <div align="center">
   <img src="https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/image/Total%20Damage%20per%20Area%20by%20Country%20(Top%2020).png" width="500">
   <p style="font-size: 0.9em; color: #555;">
-    <em>Figure6: กราฟแสดงข้อมูล Total Damage per Area by Country (อัตราความเสียหายรวมต่อพื้นที่) แกนX Damage per Area อัตราความเสียหายต่อพื้นที่ ($k/square meter) แกนX Country ชื่อประเทศ </em><br>
+    <em>Figure7: กราฟแสดงข้อมูล Total Damage per Area by Country (อัตราความเสียหายรวมต่อพื้นที่) แกนX Damage per Area อัตราความเสียหายต่อพื้นที่ ($k/square meter) แกนX Country ชื่อประเทศ </em><br>
   </p>
 </div>
 มูลค่าความเสียหายเป็นจำนวนเงินสูงที่ประเทศต่อแบกรับ สำหรับประเทศไทยมีอัตราความเสียหายต่อเหตุการณ์เกิดแผ่นดินไหว 393.12 ล้านดอลล่า (อันดับที่ 12 ของโลก) และอัตราความเสียหายต่อพื้นที่ตารางเมตร 3.83 พันดอลล่า (อันดับที่ 17 ของโลก) นับเป็นจำนวนเงินที่สูงมากที่ต้องสูญเสียไปกับการเกิดเหตุการณ์แผ่นดินไหว ทำให้ประเทศสูญเสียงบประมาณและเสียโอกาสในการพัฒนาประเทศไทย ดังนั้นการบริหารความเสี่ยง เช่น เมื่อเกิดเหตุแผ่นดินไหวพื้นที่ไหนมีความเสียหายมาก, สิ่งปลูกสร้างประเภทไหนที่เสี่ยงจะเสียหาย พิจารณาร่วมกับปัจจัยต่างๆเพื่อบริหารความเสี่ยง สามารถลดอัตราความสูญเสียในอนาคตได้
