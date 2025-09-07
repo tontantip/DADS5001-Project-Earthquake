@@ -38,12 +38,29 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </div>
 </p>
 <div align="center">
-  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/how_richter_scale_calculated.gif?raw=true" width="500">
+  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/how_richter_scale_calculated.gif?raw=true" width="300">
   <p style="font-size: 0.9em; color: #555;">
     <em>Figure3: Understanding the Richter Scale </em><br>
     ที่มา: <a href="https://www.sms-tsunami-warning.com/">SMS tsunami warning</a>
   </p>
 </div>
+จากกราฟทั้ง 2 (Figure2 และ Figure3) ระหว่างจำนวนการเกิดแผ่นดินไหวและการกระจายตัวความรุนแรงของแผ่นดินไหว ตั้งแต่ปี 2005 ถึง 2025 พบว่า ในปีที่มีจำนวนครั้งเกิดแผ่นดินไหวไม่ได้หมายความว่าจีมีความแรงรุนสูง เช่นในปี 2008 (76 ครั้ง) แต่ค่า Median และค่า Outlier ความรุนแรงในปีดั่งกล่าวไม่สูงมาก  สอดคล้องกับกฎของ Gutenberg-Richter ซึ่งระบุว่า เมื่อขนาดความรุนแรงของแผ่นดินไหวเพิ่มขึ้น จำนวนครั้งที่เกิดขึ้นจะลดลงอย่างเป็นทวีคูณ (exponentially)
+</p>
+<div align="center">
+  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Total%20Damage%20per%20Event%20and%20Number%20of%20Event%20by%20Country%20(Top%2015).png?raw=true" width="500">
+  <p style="font-size: 0.9em; color: #555;">
+    <em>Figure6: กราฟแสดงข้อมูล Total Damage per Event Top 15 (อัตราความเสียหายต่อเหตุการณ์) และ Number of Events (จำนวนเหตุการณ์) ของประเทศ 15 อันดับแรก แกนY(ซ้าย) Damage per Event อัตราความเสียหายต่อเหตุการณ์ ($Mil/event) แกนY(ขวา)  Number of Event จำนวนเกิดเหตุการณ์แผ่นดินไหว แกนX Country ชื่อประเทศ </em><br>
+  </p>
+</div>
+</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/image/Total%20Damage%20per%20Area%20by%20Country%20(Top%2020).png" width="500">
+  <p style="font-size: 0.9em; color: #555;">
+    <em>Figure6: กราฟแสดงข้อมูล Total Damage per Area by Country (อัตราความเสียหายรวมต่อพื้นที่) แกนX Damage per Area อัตราความเสียหายต่อพื้นที่ ($k/square meter) แกนX Country ชื่อประเทศ </em><br>
+  </p>
+</div>
+มูลค่าความเสียหายเป็นจำนวนเงินสูงที่ประเทศต่อแบกรับ สำหรับประเทศไทยมีอัตราความเสียหายต่อเหตุการณ์เกิดแผ่นดินไหว 393.12 ล้านดอลล่า (อันดับที่ 12 ของโลก) และอัตราความเสียหายต่อพื้นที่ตารางเมตร 3.83 พันดอลล่า (อันดับที่ 17 ของโลก) นับเป็นจำนวนเงินที่สูงมากที่ต้องสูญเสียไปกับการเกิดเหตุการณ์แผ่นดินไหว ทำให้ประเทศสูญเสียงบประมาณและเสียโอกาสในการพัฒนาประเทศไทย ดังนั้นการบริหารความเสี่ยง เช่น เมื่อเกิดเหตุแผ่นดินไหวพื้นที่ไหนมีความเสียหายมาก, สิ่งปลูกสร้างประเภทไหนที่เสี่ยงจะเสียหาย พิจารณาร่วมกับปัจจัยต่างๆเพื่อบริหารความเสี่ยง สามารถลดอัตราความสูญเสียในอนาคตได้
+
 ## Installation
 
 ### Prerequisites
