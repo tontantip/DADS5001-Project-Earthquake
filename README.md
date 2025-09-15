@@ -4,7 +4,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Installation](#installation)
+- [Data analytics](#Data analytics)
 - [U](#usage)
 - [Contributing](#contributing)
 
@@ -73,8 +73,27 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </div>
 มูลค่าความเสียหายเป็นจำนวนเงินสูงที่ประเทศต่อแบกรับ สำหรับประเทศไทยมีอัตราความเสียหายต่อเหตุการณ์เกิดแผ่นดินไหว 393.12 ล้านดอลล่า (อันดับที่ 12 ของโลก) และอัตราความเสียหายต่อพื้นที่ตารางเมตร 3.83 พันดอลล่า (อันดับที่ 17 ของโลก) นับเป็นจำนวนเงินที่สูงมากที่ต้องสูญเสียไปกับการเกิดเหตุการณ์แผ่นดินไหว ทำให้ประเทศสูญเสียงบประมาณและเสียโอกาสในการพัฒนาประเทศไทย ดังนั้นการบริหารความเสี่ยง เช่น เมื่อเกิดเหตุแผ่นดินไหวพื้นที่ไหนมีความเสียหายมาก, สิ่งปลูกสร้างประเภทไหนที่เสี่ยงจะเสียหาย พิจารณาร่วมกับปัจจัยต่างๆเพื่อบริหารความเสี่ยง สามารถลดอัตราความสูญเสียในอนาคตได้
 
-## Installation
-
+## Data analytics
+วิเคราะห์จากข้อมูลแจ้งความเสียหายพบว่าโครงสร้างของคอนโดมิเนียม 5,865 ครั้ง มีจำนวนการแจ้งความเสียหายเข้ามามากที่สุดเป็นอันดับหนึ่ง ตามมาด้วย บ้าน (2,432 ครั้ง) คิดเป็น 70% ของจำนวนการแจ้งความเสียหายทั้งหมด และในขณะเดียวกันจำนวนจากคอนโดมิเนียม มากกว่าขึ้น 2 เท่าของอันดับ 2 อย่างบ้าน Figure8
+</p>
+</div>
+</p>
+<div align="center">
+  <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Total%20Reported%20Damages%20by%20Building%20Type.png?raw=true width="500">
+  <p style="font-size: 0.9em; color: #555;">
+    <em>Figure8: กราฟแสดงข้อมูล Total Reported Damages by Building Type (จำนวนการแจ้งความเสียหาย) แกนX Building Type ประเภทสิ่งปลูกสร้าง แกนY Reported Damage จำนวนแจ้งความเสียหาย </em><br>
+  </p>
+</div>
+สิ่งที่น่าสนใจคือ จำนวนที่มีการแจ้งความเสียหายหลังจากการตรวจสอบแล้วไม่พบความเสียหาย คอนโดมิเนียมมีมากที่สุดจำนวน 726 ครั้ง คิดเป็น 6.17% ของจำนวนแจ้งทั้งหมด Figure9 ดังนั้นปัจจัยที่ทำให้จำนวนการแจ้งจากคอนโดมิเนียมสูงมาก อาจจะมีดังนี้
+</p>
+</div>
+</p>
+<div align="center">
+  <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Total%20Reported%20Damages%20by%20Building%20Type.png?raw=true width="500">
+  <p style="font-size: 0.9em; color: #555;">
+    <em>Figure8: กราฟแสดงข้อมูล Total Reported Damages by Building Type (จำนวนการแจ้งความเสียหาย) แกนX Building Type ประเภทสิ่งปลูกสร้าง แกนY Reported Damage จำนวนแจ้งความเสียหาย </em><br>
+  </p>
+</div>
 ### Prerequisites
 
 ก่อนการติดตั้ง คุณต้องมี...
