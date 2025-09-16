@@ -99,7 +99,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </div>
 </p>
 <div align="center">
-  <img src=https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/image/Area%20by%20Soil%20Layer%20in%20BKK.png width="500">
+  <img src=https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/image/Area%20and%20Number%20of%20Reported.png width="500">
   <p style="font-size: 0.9em; color: #555;">
     <em>Figure9: กราฟแสดงข้อมูล Number of Damage Reports Verified as "No Damage Found" by Building Type (จำนวนรายงานความเสียหายที่ตรวจสอบแล้วไม่พบความเสียหายจำแนกตามประเภทสิ่งปลูกสร้าง) แกนX Number of Verified No-Damage Reports จำนวนแจ้งที่ไม่พบความเสียหาย แกนY Building Type ประเภทสิ่งปลูกสร้าง </em><br>
   </p>
