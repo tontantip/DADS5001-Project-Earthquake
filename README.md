@@ -81,7 +81,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 <div align="center">
   <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Total%20Reported%20Damages%20by%20Building%20Type.png?raw=true width="500">
   <p style="font-size: 0.9em; color: #555;">
-    <em>Figure8: กราฟแสดงข้อมูล Total Reported Damages by Building Type (จำนวนการแจ้งความเสียหาย) แกนX Building Type ประเภทสิ่งปลูกสร้าง แกนY Reported Damage จำนวนแจ้งความเสียหาย </em><br>
+    <em>Figure8: กราฟแสดงข้อมูล Total Reported Damages by Building Type (จำนวนการแจ้งความเสียหายแบ่งตามประเภทสิ่งปลูกสร้าง) แกนX Building Type ประเภทสิ่งปลูกสร้าง แกนY Reported Damage จำนวนแจ้งความเสียหาย </em><br>
   </p>
 </div>
 สิ่งที่น่าสนใจคือ จำนวนที่มีการแจ้งความเสียหายหลังจากการตรวจสอบแล้วไม่พบความเสียหาย คอนโดมิเนียมมีมากที่สุดจำนวน 726 ครั้ง คิดเป็น 6.17% ของจำนวนแจ้งทั้งหมด Figure9 ดังนั้นปัจจัยที่ทำให้จำนวนการแจ้งจากคอนโดมิเนียมสูงมาก อาจจะมีดังนี้
@@ -90,6 +90,16 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </p>
 <div align="center">
   <img src=https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/image/Number%20of%20Damage%20Reports%20Verified%20as%20_No%20Damage%20Found_%20by%20Building%20Type.png width="500">
+  <p style="font-size: 0.9em; color: #555;">
+    <em>Figure9: กราฟแสดงข้อมูล Number of Damage Reports Verified as "No Damage Found" by Building Type (จำนวนรายงานความเสียหายที่ตรวจสอบแล้วไม่พบความเสียหายจำแนกตามประเภทสิ่งปลูกสร้าง) แกนX Number of Verified No-Damage Reports จำนวนแจ้งที่ไม่พบความเสียหาย แกนY Building Type ประเภทสิ่งปลูกสร้าง </em><br>
+  </p>
+</div>
+
+</p>
+</div>
+</p>
+<div align="center">
+  <img src=https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/image/Area%20by%20Soil%20Layer%20in%20BKK.png width="500">
   <p style="font-size: 0.9em; color: #555;">
     <em>Figure9: กราฟแสดงข้อมูล Number of Damage Reports Verified as "No Damage Found" by Building Type (จำนวนรายงานความเสียหายที่ตรวจสอบแล้วไม่พบความเสียหายจำแนกตามประเภทสิ่งปลูกสร้าง) แกนX Number of Verified No-Damage Reports จำนวนแจ้งที่ไม่พบความเสียหาย แกนY Building Type ประเภทสิ่งปลูกสร้าง </em><br>
   </p>
