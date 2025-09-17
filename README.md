@@ -23,7 +23,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 ตั้งแต่ปี ค.ศ. 2005 ถึง เดือน สิงหาคม 2025 จากการรวมรวบสถิติเกิดแผ่นดินไหวทั่วโลก (Figure2) พบว่าจำนวนครั้งการเกิดแผ่นดินไหวแต่ละปีมีจำนวนครั้งไม่ต่ำกว่า 20 ครั้งในทุกขนาดความรุนแรงที่ปลดปล่อยออกมา หากพิจารณาเพียงจำนวนครั้งการเกิดแผ่นดินไหวไม่สามารถสรุปแนวโน้มแน่นอนได้ว่าเพิ่มขึ้นหรือลดลง แสดงให้เห็นว่าปัจจัยมีความซับซ้อนและหลากหลาย
 </p>
 <div align="center">
-  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/The%20number%20of%20earthquakes%20each%20year%20(2005-2025).png?raw=true" alt="SAO Collapse" width="500">
+  <img src=https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/image/Number%20of%20earthquakes%202005-2025.png width="500">
   <p style="font-size: 0.9em; color: #555;">
     <em>Figure2: Bar Chart แสดงจำนวนการเกิดแผนดินไหว (แกน Y: Earthquake Count) แต่ละปี ตั้งแต่ 2005-2025(เดือน สิงหาคม) (แกน X: Year(2005-2025)) ในแต่ละปีมีจำนวนแผ่นดอนไหวไม่ต่ำกว่า 20 ครั้ง และไม่มีแนวโน้มที่แน่นอน </em><br>
   </p>
@@ -79,7 +79,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </div>
 </p>
 <div align="center">
-  <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Total%20Reported%20Damages%20by%20Building%20Type.png?raw=true width="500">
+  <img src= https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/image/Total%20Reported%20Damages%20by%20Building%20Type1.png width="500">
   <p style="font-size: 0.9em; color: #555;">
     <em>Figure8: กราฟแสดงข้อมูล Total Reported Damages by Building Type (จำนวนการแจ้งความเสียหายแบ่งตามประเภทสิ่งปลูกสร้าง) แกนX Building Type ประเภทสิ่งปลูกสร้าง แกนY Reported Damage จำนวนแจ้งความเสียหาย </em><br>
   </p>
