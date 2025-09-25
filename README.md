@@ -10,9 +10,9 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 
 ## Introduction
 
-ในวันที่ 28 มีนาคม พ.ศ.2568 เกิดเหตุแผ่นดินไหวศูนย์กลางอยู่ในภาคซะไกง์ของประเทศพม่า แรงสั่นสะเทือนส่งผลกระทบถึงประเทศมีอาคาร ที่อยู่อาศัย ได้รับความเสียหายจำนวนมาก 
+ตั้งแต่ปี ค.ศ. 2005 ถึง เดือน สิงหาคม 2025 จากการรวมรวบสถิติเกิดแผ่นดินไหวทั่วโลก พบว่าจำนวนครั้งการเกิดแผ่นดินไหวแต่ละปีมีจำนวนครั้งไม่ต่ำกว่า 20 ครั้งในทุกขนาดความรุนแรงที่ปลดปล่อยออกมา หากพิจารณาเพียงจำนวนครั้งการเกิดแผ่นดินไหวไม่สามารถสรุปแนวโน้มแน่นอนได้ว่าเพิ่มขึ้นหรือลดลง แสดงให้เห็นว่าปัจจัยมีความซับซ้อนและหลากหลาย
 <div align="center">
-  <img src="https://thestandard.co/wp-content/uploads/2025/05/SAO-Collapse.jpg?x62638" alt="SAO Collapse" width="500">
+  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Number%20of%20earthquakes%202005-2025.png?raw=true" width="800">
   <p style="font-size: 0.9em; color: #555;">
     <em>Figure1: อาคารสำนักการตรวจเงินแผ่นดินถล่ม.</em><br>
     ที่มา: <a href="https://thestandard.co/saocolapse/">The Standard</a>
