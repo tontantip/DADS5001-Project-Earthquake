@@ -12,7 +12,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 
 ตั้งแต่ปี ค.ศ. 2005 ถึง เดือน สิงหาคม 2025 จากการรวมรวบสถิติเกิดแผ่นดินไหวทั่วโลก พบว่าจำนวนครั้งการเกิดแผ่นดินไหวแต่ละปีมีจำนวนครั้งไม่ต่ำกว่า 20 ครั้งในทุกขนาดความรุนแรงที่ปลดปล่อยออกมา หากพิจารณาเพียงจำนวนครั้งการเกิดแผ่นดินไหวไม่สามารถสรุปแนวโน้มแน่นอนได้ว่าเพิ่มขึ้นหรือลดลง แสดงให้เห็นว่าปัจจัยมีความซับซ้อนและหลากหลาย
 <div align="center">
-  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Number%20of%20earthquakes%202005-2025.png?raw=true" width="800">
+  <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Number%20of%20earthquakes%202005-2025.png?raw=true width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure 1: Bar Chart แสดงจำนวนการเกิดแผนดินไหว (แกน Y: จำนวนครั้งเหตุการณ์แผ่นดินไหว) แต่ละปี ตั้งแต่ 2005-2025(เดือน สิงหาคม) (แกน X: ปี (2005-2025)) ในแต่ละปีมีจำนวนแผ่นดินไหวไม่ต่ำกว่า 20 ครั้ง และไม่มีแนวโน้มที่แน่นอน </em><br>
   </p>
