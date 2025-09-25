@@ -104,17 +104,14 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
     <em>Figure8: กราฟการวิเคราะห์ความเสียหายเชิงพื้นที่ (Analysis of Location) ประกอบด้วย พื้นที่ชั้นดินในกรุงเทพมหานคร (Area by soil layer in BKK) หน่วย ตารางกิโลเมตร, จำนวนเหตุแบ่งตามประเภทของชั้นดิน (Number of Reported by Soil Layer), จำนวนการแจ้งความเสียหายแบ่งตามพื้นที่ใช้ประโยชน์ และ ชั้นดิน (Total Reported Damage by Land use zone and soil layer)</em><br>
   </p>
 </div>
-วิเคราะห์ความเสียหายของโครงสร้างอาคารโดยแบ่งตามลักษณะที่ตั้ง วิเคราะห์เจาะลึกเกี่ยวกับพื้นที่ตั้งของจุดที่มีการแจ้งปัญหาโดยแบ่งตามพื้นที่ใช้ประโยชน์ตามสีผังเมืองของกรุงเทพมหานคร และ ลักษณะชั้นดิน พบว่า ชั้นดิน zoning A ดินอ่อนพอสมควร มีการแจ้งมากที่สุดถึง 9,890 ครั้ง คิดเป็น 84% ของจำนวนการแจ้งทั้งหมด ชั้นดิน zoning B ดินอ่อนมากมีการแจ้ง 1,886 ครั้ง และ zoning C ดินอ่อนที่สุดมีการแจ้ง 2 ครั้ง Figure11
-</p>
 <div align="center">
-  <img src=https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/image/Area%20and%20Number%20of%20Reported.png width="500">
-  <p style="font-size: 0.9em; color: #555;">
-    <em>Figure11: Area by Soil Layer in BKK. (ข้อมูลพื้นที่ชั้นดินของกรงเทพ) แกนX: Soil Layer ชั้นดิน แกนY(กราฟบน): Area พื้นที่ (ล่้านตารางเมตร) แกนY(กราฟล่าง): Number of Reported จำนวนครั้งรวมที่แจ้ง </em><br>
+  <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/soil%20layer.png?raw=true width="800">
+  <p style="font-size: 0.7em; color: #555;">
+    <em>Figure9: ตารางที่อธิบายคุณสมบัติของชั้นดิน (Soil Layer) ในเขตกรุงเทพมหานคร โดยแบ่งออกเป็น 3 ประเภทหลัก ได้แก่ โซน A, โซน B, และโซน C </em><br>
   </p>
 </div>
-ข้อมูลจากเว็บไซต์(https://tmd.go.th) ระบุว่าลักษณะชั้นดินที่เป็นดินอ่อนมักจะขยายแรงสั่นสะเทือนได้ดี หรือความอ่อนของชั้นดินมากโอกาสเสี่ยงที่จะเกิดความเสียหายมาก หมายความว่า ตามทฤษฎีแล้ว ชั้นดินใน zone C มีความเสี่ยงเกิดความเสียหายมากที่สุด ตามด้วย zone B และ A ตามลำดับ ซึ่งขัดแย้งกับข้อมูลเป็นจริง แต่ถ้าพิจารณาพื้นที่ของแต่ละลักษณะชั้นดินในพื้นที่กรุงเทพมหานคร พบว่าในกรุงเทพมหานครมีพื้นที่ชั้นดิน zone B มากที่สุด 889,672,540 ตารางเมตร (56%) พื้นที่ zone A 673,050,384 ตารางเมตร (43%) พื้นที่ zone C น้อยที่สุด 13,896,907 (1%) เท่านั้น Figure11 สามารถตีความได้ว่า
 
-### Steps
+### Damage
 
 1.  โคลน repository:
     `git clone https://github.com/your-username/your-project.git`
