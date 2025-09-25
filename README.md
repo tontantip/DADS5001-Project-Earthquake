@@ -1,5 +1,5 @@
-# DADS5001 Project Earthquake
-Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
+# DADS5001 Project Earthquake 
+Mini project DADS5001 Data Analytics and Data Science Tools and Programming. poon
 
 ## Table of Contents
 
