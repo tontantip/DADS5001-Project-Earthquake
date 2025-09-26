@@ -161,7 +161,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
  </p>
 </div>
 <div align="center">
-  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97.png width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97.png width="500">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure14: กราฟวงกลมแสดง สัดส่วนของความเสียหายตามประเภท ทั้ง 5 ระดับ </em><br>
   </p>
@@ -174,7 +174,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
  </p>
 </div>
 <div align="center">
-  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/%E0%B8%AA%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B8%95.png7.png width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/%E0%B8%AA%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B8%95.png width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure15: แผนภาพแท่งแบบร้อยละแสดง สัดส่วนของความเสียหายตามประเภทในแต่ละเขต โดยแสดง 10 เขตแรกที่มีอาคารได้รับความเสียหายในระดับวิกฤตและรุนแรงมากที่สุด จากแผนภาพจะเห็นได้ว่า แม้บางเขตจะมีจำนวนอาคารได้รับความเสียหายสูง แต่สัดส่วนของระดับวิกฤตและรุนแรงอาจไม่สูงตามไปด้วย </em><br>
   </p>
