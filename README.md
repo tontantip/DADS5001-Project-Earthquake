@@ -112,7 +112,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </div>
 
 ### Damage
-
+ในบรรดา 50 เขตของกรุงเทพมหานคร เขตจตุจักร มีจำนวนการแจ้งเหตุเข้ามามากที่สุด รองลงมาคือ เขตวัฒนา และ เขตห้วยขวาง ตามลำดับ
 1.  โคลน repository:
     `git clone https://github.com/your-username/your-project.git`
 2.  ติดตั้ง dependencies:
