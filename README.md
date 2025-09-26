@@ -116,7 +116,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </p>
 </div>
 <div align="center">
-  <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/soil%20layer.png?raw=true width="800">
+  <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/building_count_by_district.jpg width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure10: แผนที่กรุงเทพมหานคร แสดงจำนวนสิ่งปลูกสร้างที่มีการแจ้งเหตุแผ่นดินไหวในแต่ละเขต ซึ่งสะท้อนให้เห็นถึงความหนาแน่นของการแจ้งเหตุในพื้นที่ต่างๆ โดยสีที่เข้มขึ้นจะแสดงถึงจำนวนการแจ้งเหตุที่สูงขึ้น </em><br>
   </p>
@@ -135,13 +135,13 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </p>
 </div>
 <div align="center">
-  <img src=  width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/total_dmg_class_summary2.jpg  width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure12: กราฟแสดงข้อมูลความเสียหายของสิ่งปลูกสร้างในแต่ละเขต โดย กราฟด้านซ้าย แสดงจำนวนสิ่งปลูกสร้างที่ได้รับความเสียหาย ในขณะที่ กราฟด้านขวา แสดงความหนาแน่นของความเสียหายต่อพื้นที่ ซึ่งในทั้งสองกราฟ 5 อันดับแรกที่มีข้อมูลสูงสุดจะถูกเน้นด้วยสีแดง </em><br>
   </p>
 </div>
 <div align="center">
-  <img src=  width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/building_count_and_density_side_by_side(2).jpg width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure13: แผนที่กรุงเทพมหานคร แสดงข้อมูลความเสียหายของสิ่งปลูกสร้างในแต่ละเขต โดย กราฟด้านซ้าย แสดงจำนวนสิ่งปลูกสร้างที่ได้รับความเสียหาย ในขณะที่ กราฟด้านขวา แสดงความหนาแน่นของความเสียหายต่อพื้นที่ โดยสีที่เข้มขึ้นจะแสดงถึงค่าที่มากขึ้น </em><br>
   </p>
@@ -188,21 +188,21 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
  </p>
 </div>
 <div align="center">
-  <img src= width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/district_total_pct_dual_fixed.jpg width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure16: การเปรียบเทียบสัดส่วนพื้นที่เสียหายตามเขตกับค่าเฉลี่ยรวม
 กราฟด้านซ้ายแสดงสัดส่วนพื้นที่เสียหาย (%) ของแต่ละเขต โดยมีเส้นปะสีส้มแทนค่าเฉลี่ยรวมที่ 14% เขตที่มีบาร์ยาวเกินเส้นปะคือพื้นที่ที่ได้รับความเสียหายสูงกว่าค่าเฉลี่ย ในขณะที่เขตที่บาร์สั้นกว่าหมายถึงพื้นที่เสียหายน้อยกว่าโดยรวม ส่วนกราฟด้านขวาแสดงส่วนต่างจากค่าเฉลี่ยของสัดส่วนพื้นที่เสียหายในแต่ละเขต โดยค่าบวก (สีแดง) หมายถึงเขตที่เสียหายมากกว่าค่าเฉลี่ย และค่าลบ (สีเขียว) หมายถึงเขตที่เสียหายน้อยกว่าค่าเฉลี่ย ช่วยให้สามารถมองเห็นได้อย่างชัดเจนว่าพื้นที่ใดได้รับผลกระทบมากหรือน้อยเมื่อเปรียบเทียบกับค่าเฉลี่ยของกรุงเทพมหานครโดยรวม </em><br>
   </p>
 </div>
 <div align="center">
-  <img src= width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/covered_pct_by_district.jpg width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure17: แผนที่แสดงสัดส่วนพื้นที่ที่ได้รับผลกระทบจากความเสียหายในกรุงเทพมหานคร (รายเขต) โดยใช้ระดับสีเป็นตัวบ่งชี้ความรุนแรง เขตที่มีสีอ่อนหมายถึงพื้นที่เสียหายน้อย ขณะที่เขตที่มีสีแดงเข้มคือพื้นที่ที่ได้รับความเสียหายสูงสุด  </em><br>
   </p>
 </div>
 </div>
 <div align="center">
-  <img src= width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/district_high_impact_dual.jpg width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure18: การเปรียบเทียบสัดส่วนพื้นที่เสียหายในระดับ วิกฤตและรุนแรง ตามเขตกับค่าเฉลี่ยรวม
 กราฟด้านซ้ายแสดงสัดส่วนพื้นที่เสียหาย (%) ของแต่ละเขต โดยมีเส้นปะสีส้มแทนค่าเฉลี่ยรวมที่ 14% เขตที่มีบาร์ยาวเกินเส้นปะคือพื้นที่ที่ได้รับความเสียหายสูงกว่าค่าเฉลี่ย ในขณะที่เขตที่บาร์สั้นกว่าหมายถึงพื้นที่เสียหายน้อยกว่าโดยรวม ส่วนกราฟด้านขวาแสดงส่วนต่างจากค่าเฉลี่ยของสัดส่วนพื้นที่เสียหายในแต่ละเขต โดยค่าบวก (สีแดง) หมายถึงเขตที่เสียหายมากกว่าค่าเฉลี่ย และค่าลบ (สีเขียว) หมายถึงเขตที่เสียหายน้อยกว่าค่าเฉลี่ย ช่วยให้สามารถมองเห็นได้อย่างชัดเจนว่าพื้นที่ใดได้รับผลกระทบมากหรือน้อยเมื่อเปรียบเทียบกับค่าเฉลี่ยของกรุงเทพมหานครโดยรวม </em><br>
@@ -210,7 +210,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </div>
 </div>
 <div align="center">
-  <img src= width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/5_4_pct_by_district.jpg width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure19: แผนที่นี้แสดงสัดส่วนพื้นที่ที่ได้รับผลกระทบจากความเสียหายในระดับ วิกฤตและรุนแรง ของกรุงเทพมหานครในแต่ละเขต โดยใช้ระดับสีเป็นตัวบ่งชี้ความรุนแรงของผลกระทบ เขตที่ปรากฏเป็นสีอ่อนสะท้อนถึงพื้นที่ที่มีสัดส่วนความเสียหายต่ำ ในขณะที่เขตที่ปรากฏเป็นสีแดงเข้ม คือพื้นที่ที่มีสัดส่วนความเสียหายสูงสุด </em><br>
   </p>
@@ -225,7 +225,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
   </p>
 </div>
 <div align="center">
-  <img src= width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/zone_group_density.jpg width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure20: แผนที่กรุงเทพ แสดงความหนาแน่นของสิ่งปลูกสร้างที่ได้รับความเสียหายตามโซนผังเมือง  </em><br>
   </p>
@@ -282,7 +282,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
   </p>
 </div>
 <div align="center">
-  <img src=  width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/uncovered_pct_by_district.jpg width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure24: แผนที่แสดงสัดส่วนของพื้นที่ที่ ไม่ได้รับผลกระทบจากความเสียหายในแต่ละเขต โดยใช้ระดับสีเป็นตัวบ่งชี้ เขตที่มีสีเข้มหมายถึง ไม่ได้รับผลกระทบเลย หรือมีพื้นที่ที่ปลอดภัยจากความเสียหายมากที่สุด ขณะที่สีอ่อนสะท้อนถึงเขตที่ยังคงมีพื้นที่จำนวนหนึ่งได้รับผลกระทบ </em><br>
   </p>
