@@ -1,6 +1,8 @@
 # DADS5001 Project Earthquake
 Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
-
+## Dataset / Data source
+- Dataset historical earthquake data ย้อนหลัง 20 ปี [(NCEI Hazard Earthquake Search), (raw.githubusercontent.com/tontantip/Archive/refs/heads/main/earthquakes-2025-08-30_18-19-15_%2B0700.tsv)](https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/Document/earthquakes-2025-08-30_18-19-15_%2B0700.tsv)
+- ข้อมูลสถิติจำนวนประชากรไทย https://stat.bora.dopa.go.th/new_stat/webPage/statByAgeMonth.php
 ## Table of Contents
 
 - [Introduction](#introduction)
