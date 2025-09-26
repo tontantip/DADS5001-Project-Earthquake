@@ -5,8 +5,9 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 
 - [Introduction](#introduction)
 - [Data analytics](#data-analytics)
-- [U](#usage)
-- [Contributing](#contributing)
+-   [Overview](#overview)
+-   [Damage](#damge)
+- [Safe Zone](#safe-zone)
 
 ## Introduction
 
