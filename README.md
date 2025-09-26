@@ -113,15 +113,21 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 
 ### Damage
 ในบรรดา 50 เขตของกรุงเทพมหานคร เขตจตุจักร มีจำนวนการแจ้งเหตุเข้ามามากที่สุด รองลงมาคือ เขตวัฒนา และ เขตห้วยขวาง ตามลำดับ
-1.  โคลน repository:
-    `git clone https://github.com/your-username/your-project.git`
-2.  ติดตั้ง dependencies:
-    `npm install`
+</p>
+</div>
+<div align="center">
+  <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/soil%20layer.png?raw=true width="800">
+  <p style="font-size: 0.7em; color: #555;">
+    <em>Figure10: ตารางที่อธิบายคุณสมบัติของชั้นดิน (Soil Layer) ในเขตกรุงเทพมหานคร โดยแบ่งออกเป็น 3 ประเภทหลัก ได้แก่ โซน A, โซน B, และโซน C </em><br>
+  </p>
+</div>
+จากการวิเคราะห์ข้อมูลด้วย Scatter Plot พบความสัมพันธ์เชิงบวกระหว่าง จำนวนการแจ้งเหตุ และ คะแนนความเสียหาย ของแต่ละเขตในกรุงเทพฯ กล่าวคือ เขตที่มีจำนวนการแจ้งเหตุมากก็มักจะมีระดับความเสียหายสูงตามไปด้วย
+</p>
+</div>
+<div align="center">
+  <img src=https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%20%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%20%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B8%95.png width="800">
+  <p style="font-size: 0.7em; color: #555;">
+    <em>Figure11: กราฟแสดงความสัมพันธ์ระหว่าง จำนวนการแจ้งเหตุ (แกน X) และ คะแนนความเสียหาย (แกน Y) แยกตามแต่ละเขตของกรุงเทพมหานคร โดยเขตที่มีจำนวนการแจ้งเหตุสูง มักมีระดับความเสียหายสูงตามไปด้วยC </em><br>
+  </p>
+</div>
 
-## Usage
-
-วิธีการใช้งานโปรเจกต์นี้...
-
-## Contributing
-
-ยินดีรับการมีส่วนร่วม! หากคุณต้องการช่วยพัฒนา...
