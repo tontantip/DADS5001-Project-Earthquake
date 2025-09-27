@@ -1,8 +1,14 @@
 # DADS5001 Project Earthquake
 Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 ## Dataset / Data source
-- Dataset historical earthquake data ย้อนหลัง 20 ปี [(NCEI Hazard Earthquake Search), (raw.githubusercontent.com/tontantip/Archive/refs/heads/main/earthquakes-2025-08-30_18-19-15_%2B0700.tsv)](https://raw.githubusercontent.com/tontantip/DADS5001-Project-Earthquake/refs/heads/main/Document/earthquakes-2025-08-30_18-19-15_%2B0700.tsv)
-- ข้อมูลสถิติจำนวนประชากรไทย https://stat.bora.dopa.go.th/new_stat/webPage/statByAgeMonth.php
+- Data Traffy x Bangkok. ข้อมูลแจ้งความเสียหายจากแผ่นดินไหว  https://dcd2dbdb64ee.ngrok-free.app/earthquake  token : A54SD42sfrg56jgbK5E5G6y68g9hfd5fdcS
+- Dataset historical earthquake data ย้อนหลัง 20 ปี [NCEI Hazard Earthquake Search](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/search)
+- ข้อมูลสถิติจำนวนประชากรไทย ****https://stat.bora.dopa.go.th/new_stat/webPage/statByAgeMonth.php
+- ข้อมูลผังเมือง https://nida365-my.sharepoint.com/:f:/g/personal/6720422026_stu_nida_ac_th/Eu08wW8DLgFEmK3QeUtLyl0BpcUCWUnu8T8PFD3XMODpDQ?e=GGLHzY
+- ข้อมูลชั้นดิน https://nida365-my.sharepoint.com/:f:/g/personal/6720422026_stu_nida_ac_th/EmbLp1ieMfNPr-Cwk3QKhzAB54pvGVyRho868HM1kvcBjA?e=fHdp4D
+- ข้อมูลพื้นที่แขวงและเขตของกรุงเทพมหานคร https://nida365-my.sharepoint.com/:f:/g/personal/6720422026_stu_nida_ac_th/ElKhvQnNR8ZOtrJ8UTd3HrMBz9v_66IyyGIpgWnigoussw?e=LbWhK4
+- ข้อมูลพื้นที่ประเทศ (API) [restcountries.com/v3.1/name/thailand](https://restcountries.com/v3.1/name/thailand)
+- ข้อมูลอาคารที่ได้รับผลกระทบ https://nida365-my.sharepoint.com/:f:/g/personal/6720422026_stu_nida_ac_th/EurrRWUKftRJt88pBIuOZDwBlhclezM_Lw55cdDdk7usSw?e=8tRtOD
 ## Table of Contents
 
 - [Introduction](#introduction)
