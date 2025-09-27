@@ -226,7 +226,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </div>
 </div>
 <div align="center">
-  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Critical_Area.png?raw=true width="800">
+  <img src= https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Critical_Area.jpg?raw=true width="800">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure19 : ตารางแสดงผลการเปรียบเทียบสัดส่วนพื้นที่เสียหายรายเขตเทียบกับค่าเฉลี่ยรวม ทั้งในมิติของ ภาพรวมและในระดับวิกฤตและรุนแรง พบว่ามีทั้งหมด 14 เขตที่มีค่ามากกว่าค่าเฉลี่ย ซึ่งสะท้อนถึงระดับความเปราะบางทางกายภาพสูง และควรได้รับการจัดลำดับความสำคัญในการบริหารจัดการ </em><br>
   </p>
