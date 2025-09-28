@@ -3,7 +3,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 ## Dataset / Data source
 - Data Traffy x Bangkok. ข้อมูลแจ้งความเสียหายจากแผ่นดินไหว  https://dcd2dbdb64ee.ngrok-free.app/earthquake  token : A54SD42sfrg56jgbK5E5G6y68g9hfd5fdcS
 - Dataset historical earthquake data ย้อนหลัง 20 ปี [NCEI Hazard Earthquake Search](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/search)
-- ข้อมูลสถิติจำนวนประชากรไทย ****https://stat.bora.dopa.go.th/new_stat/webPage/statByAgeMonth.php
+- ข้อมูลสถิติจำนวนประชากรไทย https://stat.bora.dopa.go.th/new_stat/webPage/statByAgeMonth.php
 - ข้อมูลผังเมือง https://nida365-my.sharepoint.com/:f:/g/personal/6720422026_stu_nida_ac_th/Eu08wW8DLgFEmK3QeUtLyl0BpcUCWUnu8T8PFD3XMODpDQ?e=GGLHzY
 - ข้อมูลชั้นดิน https://nida365-my.sharepoint.com/:f:/g/personal/6720422026_stu_nida_ac_th/EmbLp1ieMfNPr-Cwk3QKhzAB54pvGVyRho868HM1kvcBjA?e=fHdp4D
 - ข้อมูลพื้นที่แขวงและเขตของกรุงเทพมหานคร https://nida365-my.sharepoint.com/:f:/g/personal/6720422026_stu_nida_ac_th/ElKhvQnNR8ZOtrJ8UTd3HrMBz9v_66IyyGIpgWnigoussw?e=LbWhK4
