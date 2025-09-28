@@ -29,7 +29,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 หากวิเคราะห์การกระจายความรุนแรงของแผ่นดินไหวโดยตรง (มาตราวัดขนาด: Magnitude) หรือที่ทราบกันดีในหน่วย ริกเตอร์ สเกล (Richter scale) ตั้งแต่ปี 2005-2025 (Figure2) พบว่าการกระจายขนาดความรุนแรงส่วนใหญ่ (Median) จะอยู่ในช่วง 5.5 ถึง 6.5 ถือว่าเป็นความรุนแรงสามารถทำให้เกิดความเสียหายบริเวณที่เป็นศูนย์กลางของการเกิดแผ่นดินไหวได้ ในปี 2011 มีค่า Outlier ความรุนแรงสูงมากเมื่อเทียบกับปีอื่นๆ ซึ่งมีขนาดถึง 9.0 ริกเตอร์ ซึ่งเป็นเหตุการณ์แผ่นไหวขนาด 9.0 ริกเตอร์ที่โทโฮคุ ประเทศญี่ปุ่น
 </p>
 <div align="center">
-  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Distribution of Earthquake Magnitudes per Year (2005-2025).png?raw=true" width="800">
+  <img src="https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Distribution of Earthquake Magnitudes per Year (2005-2025).png?raw=true" width="900">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure 2: Boxplot แสดงการกระจายของความรุนแรงแผ่นดินไหว (แกน Y: Magnitude) ในแต่ละปี (แกน X: ปี 2005-2025) </em><br>
   </p>
@@ -117,7 +117,7 @@ Mini project DADS5001 Data Analytics and Data Science Tools and Programming.
 </p>
 </div>
 <div align="center">
-  <img src= "https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Analysis%20of%20Structural%20Damage1.png?raw=true" width="800">
+  <img src= "https://github.com/tontantip/DADS5001-Project-Earthquake/blob/main/image/Analysis%20of%20Structural%20Damage1.png?raw=true" width="900">
   <p style="font-size: 0.7em; color: #555;">
     <em>Figure8: กราฟการวิเคราะห์ความเสียหายเชิงโครงสร้าง (Analysis of Structural Damage) ประกอบด้วย จำนวนแจ้งความเสียหายแบ่งตามประเภทสิ่งปลูกสร้าง (Total Reported Damages by Building Type), จำนวนแจ้งความเสียหายแล้วไม่พบความเสียหายแบ่งตามประเภทสิ่งปลูกสร้าง (Number of Damage Reports Verified as "NO Damage Found" by Building Type),  จำนวนเสียหายแบ่งตามประเภทความเสียหาย (Number of Damage Each Damage Type </em><br>
   </p>
